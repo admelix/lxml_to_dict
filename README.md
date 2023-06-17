@@ -1,7 +1,7 @@
+[![PyPI version](https://badge.fury.io/py/lxml-to-dict-total.svg)](https://badge.fury.io/py/lxml-to-dict-total)
+
 # lxml_to_dict
 conversor lxml a dict
-
-<!-- [![PyPI version](https://badge.fury.io/py/nazk.svg)](https://pypi.org/project/nazk/) -->
 
 ## Descripción
 * Esta es una actualizacion al paquete oficial de `Criva` [https://github.com/CRiva/lxml_to_dict] para uso con python 3.9
